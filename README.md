@@ -6,3 +6,4 @@ Base for my cakephp project :
 - Bootstrap default.ctp
 - DebugKit
 - Authentification with component Auth
+- CRUD Plugin
