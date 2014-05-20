@@ -1,4 +1,7 @@
 <?php
+
+App::uses('AppController', 'Controller');
+
 class UsersController extends AppController {
 	public function isAuthorized($user) {
 		if (isset($user['role'])) {
